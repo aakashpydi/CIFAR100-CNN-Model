@@ -1,4 +1,4 @@
-## Real Time Classification Video Stream Using CIFAR100 LeNet5 Convolutional Neural Network Model 
+## Real Time Classification Video Stream Using a CIFAR100 LeNet5 Convolutional Neural Network
 #### Aakash Pydi
 ---
 
